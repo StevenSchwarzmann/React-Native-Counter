@@ -1,0 +1,19 @@
+{
+    "events": [
+      {
+        "title": "Demo a new app",
+        "date": "2020-03-29T13:45:18.000Z",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
+      },
+      {
+        "title": "Mom's Birthday!!",
+        "date":"2019-02-01T00:00:00",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a88"
+      },
+      {
+        "title": "~Christmas~",
+        "date":"2018-12-31T00:00:00",
+        "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a89"
+      }
+    ]
+  }
